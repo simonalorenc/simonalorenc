@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Simona 👋
 
-<!--
-**simonalorenc/simonalorenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced architect, but some time ago, I decided to change my career path. I became interested in programming over a year ago, and since then, I have been learning it independently. I started with learning frontend development and created a few applications using Angular (you can check them out on my GitHub). Currently, I am learning Java to be able to work on both frontend and backend development in the future. I am a hardworking individual, focused on personal development and continuous learning. My previous position has taught me logical thinking, teamwork, attention to detail, and creativity.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech stack: 
+- Angular,
+- TypeScript,
+- JavaScript,
+- Java,
+- Bootstrap,
+- HTML, CSS, SCSS,
+- unit testing (Jasmine),
+- Git.
